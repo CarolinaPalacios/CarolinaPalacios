@@ -24,9 +24,8 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img src="https://example.com/link/to/redux-toolkit-icon.svg" alt="Redux Toolkit" width="40" height="40"/></a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://example.com/link/to/astro-icon.svg" alt="Astro" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://example.com/link/to/tailwind-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://example.com/link/to/typescript-icon.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/></a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" alt="Astro" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://image.pngaaa.com/779/6447779-middle.png" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://en.vetores.org/wp-content/uploads/typescript.png" alt="TypeScript" width="40" height="40"/></a>
 </p>
